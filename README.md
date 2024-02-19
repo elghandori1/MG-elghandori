@@ -1,6 +1,6 @@
 <div>
     <div>
-    <img  src="https://github.com/MG-elghandori/MG-elghandori/assets/110783998/7b16c378-5dab-451a-9854-969c44d59609"/>
+    <img  src="https://github.com/elghandori1/MG-elghandori/assets/110783998/78446877-5774-4eb7-898a-3d6d42a8ba47"/>
   </div>
   <div>
       <h1 align="center">Hi 👋, I'm Elghandori</h1>
